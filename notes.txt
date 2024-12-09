@@ -3,3 +3,6 @@ this is a text file
 new line added 
 
 3rd line 
+
+
+4th line 
